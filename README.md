@@ -16,4 +16,4 @@
 
     ![Snake animation](https://github.com/raianyassis/raianyassis/blob/output/github-contribution-grid-snake.svg)
     
-    </div>
+
