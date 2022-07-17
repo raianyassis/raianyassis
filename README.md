@@ -21,6 +21,6 @@
     <img align="center" alt="html" src=https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white/>
     </div><br/>
 
-    [![raianyassis GitHub stats](https://github-readme-stats.vercel.app/api?username=raianyassis&show_icons=true&theme=synthwave)](https://github.com/raianyassis)
+    [![raianyassis github stats](https://github-readme-stats.vercel.app/api?username=raianyassis&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/raianyassis)
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raianyassis&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/raianyassis)](https://github.com/raianyassis)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raianyassis3g&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/raianyassis)
