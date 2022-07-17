@@ -6,6 +6,7 @@
 🙂
 
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=raianyassis&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=blue" />
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raiany-a-oliveira00/)
 
 
