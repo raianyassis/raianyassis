@@ -23,5 +23,5 @@
     
   <div style="display: inline_block"><br/>    
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=raianyassis&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=blue" />
- <img alt="Follow" src="https://img.shields.io/github/followers/raianyassis.svg?style=social&label=Follow&maxAge=2592000"/>
+ <img alt="Follow" src="https://img.shields.io/github/followers/raianyassis.svg?style=social&label=Follow&maxAge=2592000" />
  </div><br/>
