@@ -1,7 +1,7 @@
-#### ✨ Hi! I'm Raiany, I'm 30 years old and I'm migrating to the technology area, my biggest interest has always been to work with something compatible with my motivations. And currently technology is one of them.
+#### ✨ Hi! I'm Raiany, I'm migrating to the technology area, my biggest interest has always been to work with something compatible with my motivations. And currently technology is one of them.
 
 
-*Sou Raiany, tenho 30 anos e estou migrando para área de tecnologia, meu maior interesse sempre foi trabalhar com algo compatível com minhas motivações. E atualmente tecnologia é uma delas.*
+*Sou Raiany, estou migrando para área de tecnologia, meu maior interesse sempre foi trabalhar com algo compatível com minhas motivações. E atualmente tecnologia é uma delas.*
 >
 
 <div id="header" align="center"> 
