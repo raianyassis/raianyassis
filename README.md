@@ -1,46 +1,33 @@
-#### ✨ Hi! I'm Raiany, I'm migrating to the technology area, my biggest interest has always been to work with something compatible with my motivations. And currently technology is one of them.
 
-
-*Sou Raiany, estou migrando para área de tecnologia, meu maior interesse sempre foi trabalhar com algo compatível com minhas motivações. E atualmente tecnologia é uma delas.*
 >
 
 <div id="header" align="center"> 
   <a href="https://www.linkedin.com/in/raiany-a-oliveira00/"LinkedIn Badge">
-    <img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="120" height="50" border="10"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="90" height="30" border="10"/>
       </a>
         
 ***   
 
-   <div id="badges">
-   <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="60px" height="60px"></a>
-    <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="60px" height="60px"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="50px" height="50px"></a>
-    <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="56px" height="56px"></a>
-    <a href="https://spring.io/" title="Spring"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring" width="56px" height="56px"></a>
-    <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="52px" height="52px"></a>
-    <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="52px" height="52px"></a>
-    </div>
- 
 
-***
   <div id="header" align="center">
-  <img src="https://media.giphy.com/media/fuJzYh3LReke6vLtpH/giphy.gif" width="360"/>
+  <img src="https://lh3.googleusercontent.com/WpE3wF_y15MvupJPlznTvrqRFZkvQI4uz50f0yXmHkMJglrIQHD0tpg9CmkK9a3Hli0IlUmqn0o11AcZ6OTh5Lvm0BW5n2SCqj_P9FWqC3zaAuId3a2LW7_J2-VzR1oP_5jClltmGQ7GNtsQP2wu-IVM3v5e2H0l-mDCgOHDEjY-15uYdA0qJaEjkEeS232MVyUTDY2J21ZT954eA0SgNgCH9qxJMhaYLryPB4TPsk9yAAAjxN_1FXK9xdTdoe2cMkthI5oKAUlzaXSBlu7OryMqKAz0N8olbYH_gPDGBPKsuSoL9_mLBXF6H7rjFeW128w57hgtr-olhA1pw8X3QHvOnBlQ1agZ3cXKI3KxbIma_zZUc7cYtrTT1uXRcDfqjw9i67hyCdFwJ22KzdsgBBe1pKfqvSoZggcqQxjL1BJsLfj0JvxVM4t-eRz_fwd7q4Kah58pgdpDP0VzLhlAoluw5cq-oaPA-PcBZ-00MfAwoVq5fWUbKaAhWddFWqCFFSpU__rOXkMJb1LC-SjpAasy6oGIfB0wOyyAnybrL-M1B78fb1fZZ3ZqOiDifDC6VsNogmv1E9xxwNt_gMQDs6xOAl2_ZRhc2KLnGjYOVEHf8x8ZkOObGPpXrBwbiRvd03QOH_9Kws2GVMb0s8hGJNM1mI3vU4lwseYFv-qOfnzwsRboFj-PsW-ZrAR6cIfW76J1ELASLw-sQw0eVOqvn-pu-1wj4eW0TSPaJifcmOcyEaVAjctl_XHXZgeyqdRd9HJc2JfETZ6ffV4SA_LjWDK6Hs1DKLRhpxBGRpvXKiF28sw7MSEhdBPdNoDFSxP0mZmcIQ=s843-no?authuser=0" width="260"/>
  
   </div>
 
 ***
 
 
- <div align="center"> <a href="https://github.com/raianyassis"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=raianyassis&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raianyassis&layout=compact&langs_count=7&theme=kacho_ga"/>
+ <div align="center"> <a href="https://github.com/raianyassis"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=raianyassis&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raianyassis&layout=compact&langs_count=7&theme=github_dark"/>
  </div><br/>
  
   
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raianyassis&theme=darcula&date_format=M%20j%5B%2C%20Y%5D&locale=pt-br)](https://git.io/streak-stats)
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raianyassis&theme=prussian&date_format=M%20j%5B%2C%20Y%5D&locale=pt-br)](https://git.io/streak-stats)
 
-    
+ ![Snake animation](https://github.com/raianyassis/raianyassis/blob/output/github-contribution-grid-snake.svg)
+  
     
   <div style="display: inline_block"><br/>    
-<center> <img alt="Visitors" src="https://komarev.com/ghpvc/?username=raianyassis&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=orange" />
+<center> <img alt="Visitors" src="https://komarev.com/ghpvc/?username=raianyassis&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=blue" />
   </div><br/>
 </center>
